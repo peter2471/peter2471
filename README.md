@@ -10,8 +10,8 @@
 - HTML/CSS
 
 ## Current Projects
-- AI Project (https://github.com/peter2471/) — short description
+- AI Project (https://github.com/peter2471/) — Alearning project where i explore AI technologies and build simple AI based solutions
 
 ## How to Reach Me
 - Email: [wambuipeter899@gmail.com]
-- LinkedIn: [your LinkedIn profile link] 
+- LinkedIn:(https://www.linkedin.com/in/peter-wambui-9b114a33a?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
