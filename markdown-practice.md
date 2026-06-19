@@ -18,10 +18,10 @@
 2. git commit -m "initial commit"
 3. git push -u origin main
 
-   | tool   | purpose      | Link  |
-|---------|-----------|----------|
-| Git   | commit change | Github.com   |
-| Visual Studio Code   | Code editor  |  https://code.visualstudio.com/  |
+| tool                    | purpose              | Link  |
+|-------------------------|----------------------|----------|
+| Git                     | commit change        | Github.com   |
+| Visual Studio Code      | Code editor          |  https://code.visualstudio.com/  |
 | JetBrains IDEs(pycharm) | Python code editor   | https://www.jetbrains.com/pycharm/download/?section=windows |
 
 
